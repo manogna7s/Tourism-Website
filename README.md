@@ -27,7 +27,7 @@ Each location features interactive cards and detailed views with image carousels
 | **Local Images** | Realistic photo-based visuals |
 
 ## Deployment
- Deployed using Github.
+ Deployed using Github. </br>
  Host Link: https://manogna7s.github.io/Tourism-Website/
 
 
